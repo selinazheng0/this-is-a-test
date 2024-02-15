@@ -1,0 +1,13 @@
+
+	@font-face{
+		font-family: PicNic;
+		src:url(webfonts/PicNic-Regular.woff);
+	}
+
+			body{
+				background: yellow;
+				color: black;
+				font-family: PicNic;
+				font-size: 50px;
+				width: 500px;
+			}
