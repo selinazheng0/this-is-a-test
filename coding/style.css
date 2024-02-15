@@ -1,0 +1,59 @@
+	@font-face{
+		font-family: PicNic;
+		src:url(webfonts/PicNic-Regular.woff);
+	}
+	@font-face{
+		font-family: jgs;
+		src: url(webfonts/jgs7.woff);
+	}
+body{
+	background-color: rgba(100, 20, 45, 0.5);
+	color: rgba(0, 67, 79, 1.0);
+	margin: 25px;
+}
+	
+p{ 
+	width: 1000px;
+}
+
+.impact{
+	font-family: impact;
+	color: rgba(75, 80, 80, 1.0);
+	width: 100px;
+}
+
+#twentyth{
+	width: 400px;
+	font-size: 72pt;
+}
+
+#twentyfirst{
+	font-family: papyrus;
+	font-size: 48pt;
+}
+a{
+	color: yellow;}
+
+a:visited{
+	color: saddlebrown;}
+
+h1{
+	font-family: papyrus;
+	color: black;}
+		
+	#nav{
+		font-size: 15px;
+		color: green;
+		font-family: PicNic;
+		background: yellow;
+		padding: 20px;
+		width: 230px;
+		height: 50px;
+		margin:10px;
+		border: dotted hotpink 10pt;
+		}
+		#nav a{
+			color: purple;
+			font-family: jgs;
+		}
+
